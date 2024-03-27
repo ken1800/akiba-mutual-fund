@@ -67,4 +67,5 @@ Akiba leverages a team of experienced investment professionals with proven track
 - You should carefully consider your investment objectives, risk tolerance, and investment experience before investing.
 ## Contributors
 
-1. Tabitha 
+1. Tabitha
+2. Emmanuel
