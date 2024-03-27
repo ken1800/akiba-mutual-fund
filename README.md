@@ -69,3 +69,5 @@ Akiba leverages a team of experienced investment professionals with proven track
 
 1. Tabitha
 2. Emmanuel
+3. Hillary
+4. Kenneth 
