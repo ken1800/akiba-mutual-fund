@@ -65,3 +65,9 @@ Akiba leverages a team of experienced investment professionals with proven track
 - The value of your investment may go down as well as up.
 - There is no guarantee of capital protection.
 - You should carefully consider your investment objectives, risk tolerance, and investment experience before investing.
+## Contributors
+
+1. Tabitha
+2. Emmanuel
+3. Hillary
+4. Kenneth 
